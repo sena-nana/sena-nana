@@ -6,9 +6,12 @@
 
 ![Counter](https://count.getloli.com/get/@sena-nana?theme=rule34)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-nana&layout=compact"/>
+
 - 自我介绍：是个重度二次元萝莉百合控，见一个悸动一个，但是老婆只有世界第一可爱的黑泽露比！
 - 偶像：虚渊玄、新房昭之
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sena-nana&show_icons=true"/>
+
 - 技能点分配：
   - 技术美术/建模：![](https://img.shields.io/badge/-Blender-e16f05?&logo=Blender&logoColor=fff&style=flat-square)
   - 机器学习/编程：![](https://img.shields.io/badge/-Python-356d9c?&logo=Python&logoColor=fff&style=flat-square)
