@@ -1,4 +1,4 @@
-<img align="right" src="waifu/Ruby.png" width="150px"/>
+<img align="right" src="waifu/RUBY.png" width="150px"/>
 
 晚~上~好~ 这里是 ~~QB~~ 魔法少女星奈Sena⭐目前作为不活动系VUP活动中(找工作中)~
 
