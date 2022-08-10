@@ -20,5 +20,5 @@
 - 在学
   - ![Godot](https://img.shields.io/badge/-Godot-478bbe?style=flat-square)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-nana&layout=compact"/>     <img src="https://github-readme-stats.vercel.app/api?username=sena-nana&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-nana&layout=compact" height="180"/> <img src="https://github-readme-stats.vercel.app/api?username=sena-nana&show_icons=true" height="180"/>
 
