@@ -1,8 +1,8 @@
 <img align="right" src="waifu/RUBY.png" width="150px"/>
 
-晚~上~好~ 这里是 ~~QB~~ 魔法少女星奈Sena⭐目前作为不活动系VUP活动中(找工作中)~
+晚上好~ 这里是 ~~人形QB~~ 魔法少女星奈Sena⭐目前作为不活动系VUP活动中(找工作中)~
 
-![](https://img.shields.io/badge/dynamic/json?color=00a0d8&label=Bilibili&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey=82717585&style=flat-square)![](https://img.shields.io/badge/dynamic/json?color=238636&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey=sena-nana&style=flat-square)
+![](https://img.shields.io/badge/dynamic/json?color=00a0d8&label=Bilibili&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey=82717585&style=flat-square)![](https://img.shields.io/badge/dynamic/json?color=238636&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey=sena-nana&style=flat-square)![](https://img.shields.io/badge/dynamic/json?color=8060da&label=爱发电&query=%24.data.totalSubs&suffix=%20发电人次/月&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DafdianFans%26queryKey=ssrvup&style=flat-square)
 
 ![Counter](https://count.getloli.com/get/@sena-nana?theme=rule34)
 
