@@ -14,7 +14,7 @@
   - 以及其他杂七杂八没有什么用的东西
 - 正在进行的项目：
   - [魔法崩坏TRPG规则](https://sena-nana.github.io/)
-  - MutsukiBOT-基于[Nonebot2](https://nb2.baka.icu)的VUP辅助BOT
+  - [MutsukiBOT](https://github.com/sena-nana/MutsukiBot)-基于[Nonebot2](https://nb2.baka.icu)的VUP辅助BOT
 - 在学
   - ![Godot](https://img.shields.io/badge/-Godot-478bbe?style=flat-square)
 
