@@ -1,6 +1,6 @@
 
 <p align="center">
-晚上好~ 这里是 ~~人形QB~~ 魔法少女星奈Sena⭐目前作为不活动系VUP活动中(找工作中)~
+晚上好~ 这里是星奈Sena⭐目前作为不活动系VUP活动中(找工作中)~
 </p>
 <p align="center">
 
