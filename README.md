@@ -24,9 +24,6 @@ Ciao~I'm Sena⭐Currently active as an inactive VTB (looking for a job)~
 
 
 ---
-<p align="center">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sena-nana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>
-</p>
  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sena-nana&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
 </p>
