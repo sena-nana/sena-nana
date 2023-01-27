@@ -1,12 +1,12 @@
 
 <p align="center">
-晚上好~ 这里是星奈Sena⭐目前作为不活动系VUP活动中(找工作中)~
+晚上好~ 这里是星奈Sena⭐目前作为不活动系VUP活动中~
 </p>
 <p align="center">
-こんばんは～せなです⭐いまわ活躍していないなVTBとして活躍中（仕事探している）～
+こんばんは～せなです⭐いまわ活躍していないなVTBとして活躍中～
 </p>
 <p align="center">
-Ciao~I'm Sena⭐Currently active as an inactive VTB (looking for a job)~
+Ciao~I'm Sena⭐Currently active as an inactive VTB~
 </p>
 
 ---
