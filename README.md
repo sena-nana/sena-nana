@@ -1,13 +1,11 @@
 
-<p align="center">
+<div align="center">
 晚上好~ 这里是星奈Sena⭐目前作为不活动系VUP活动中~
-</p>
-<p align="center">
+
 こんばんは～せなです⭐いまわ活躍していないなVTBとして活躍中～
-</p>
-<p align="center">
+
 Ciao~I'm Sena⭐Currently active as an inactive VTB~
-</p>
+</div>
 
 ---
   
@@ -30,3 +28,10 @@ Ciao~I'm Sena⭐Currently active as an inactive VTB~
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-nana&layout=compact" height="180"/> <img src="https://github-readme-stats.vercel.app/api?username=sena-nana&show_icons=true" height="180"/>
 </p>
+
+---
+<div align="center">
+友链(Bilibili)
+
+[灯火橘](https://blog.nekoorange.cn/Link.html) 
+</div>
