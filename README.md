@@ -1,8 +1,8 @@
 
 <div align="center">
-晚上好~ 这里是星奈Sena⭐目前作为不活动系VUP活动中~
+晚上好~ 这里是星奈Sena⭐目前作为不活动系VUP996中~
 
-こんばんは～せなです⭐いまわ活躍していないなVTBとして活躍中～
+こんばんは～せなです⭐いまわ活躍していないなVTBとして社畜中～
 
 Ciao~I'm Sena⭐Currently active as an inactive VTB~
 </div>
