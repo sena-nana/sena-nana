@@ -16,9 +16,7 @@ Ciao~I'm Sena⭐Currently active as an inactive VTB~
   - ![](https://img.shields.io/badge/-Blender-e16f05?&logo=Blender&logoColor=fff&style=flat-square)
   - ![](https://img.shields.io/badge/-Python-356d9c?&logo=Python&logoColor=fff&style=flat-square)
   - ![](https://img.shields.io/badge/-Clip%20Studio%20Paint-2d2d2d?&style=flat-square)
-- 项目/プロジェクト/Working on
-  - [魔法崩坏TRPG规则](https://sena-nana.github.io/)
-  - MUTSUKIBOT-基于[Nonebot2](https://nb2.baka.icu)的插件集
+  - ![](https://img.shields.io/badge/-Rust-356d9c?&logo=Rust&logoColor=fff&style=flat-square)
 
 
 ---
