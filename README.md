@@ -35,4 +35,4 @@ Ciao~I'm Sena⭐Currently active as an inactive VTB~
 </div>
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; background-size: fill; width: 130vw; opacity: 0.4; background: url('https://raw.githubusercontent.com/sena-nana/sena-nana/master/bg.jpg');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100%; object-fit: fill; background-size: fill; width: 100%; opacity: 0.3; background: url('https://raw.githubusercontent.com/sena-nana/sena-nana/master/bg.jpg');]{x0000}$}
