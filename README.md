@@ -20,12 +20,10 @@ Ciallo\~I'm Sena⭐Currently active as an inactive VTB~
 
 
 ---
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sena-nana&title=Stars,Followers,PullRequest,Commits,Repositories,Issues&no-frame=true&margin-w=10"  alt="github profile trophy"/>
-</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-nana&layout=compact" height="180"/> <img src="https://github-readme-stats.vercel.app/api?username=sena-nana&show_icons=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-nana&layout=compact" height="160"/><img src="https://github-readme-stats.vercel.app/api?username=sena-nana&show_icons=true" height="160"/>
+<img src="https://stats.justsong.cn/api/bilibili/?id=82717585&theme=default&lang=zh-CN" width="360"/>
 </p>
 
 ---
