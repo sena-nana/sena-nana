@@ -16,7 +16,6 @@ Ciallo\~I'm Sena⭐Currently active as an inactive VTB~
 - 技能点分配/スギル/Skills
   - ![](https://img.shields.io/badge/-Python-356d9c?&logo=Python&logoColor=fff&style=flat-square)
   - ![](https://img.shields.io/badge/-Clip%20Studio%20Paint-2d2d2d?&style=flat-square)
-  - ![](https://img.shields.io/badge/-Rust-356d9c?&logo=Rust&logoColor=fff&style=flat-square)
 
 
 ---
@@ -33,5 +32,5 @@ Ciallo\~I'm Sena⭐Currently active as an inactive VTB~
 [灯火橘](https://blog.nekoorange.cn/Link.html) 
 </div>
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: 100; position: fixed; top: 0; left: 0; height: 100vh; width: 130vw; opacity: 0.4; background-position: center; background-size: cover; background-image: url('https://raw.githubusercontent.com/sena-nana/sena-nana/master/bg.jpg');]{x0000}$}
+---
+当前大部分开发已经转到私有gitea仓库啦，一些可公开的会设置同步喵
