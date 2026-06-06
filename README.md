@@ -13,9 +13,10 @@ Ciallo\~I'm Sena⭐Currently active as an inactive VTB~
 <img align="right" src="https://count.getloli.com/get/@sena-nana?theme=rule34">
 目前在做的项目系列：
 
-- Lilia：高度Agent辅助的日常/管理工具
+- Lilia：高度Agent辅助的日常/管理工具（偏重开发）
   - LiliaCode：一个Agent核心的代码工程管理
-- Momo：低Agent的日常/管理工具
+- Momo：低Agent的日常/管理工具（偏重日常）
+- Ameya：创意制作
 - Yume/Mutsuki：实验性项目
 - Nonona：陪伴桌宠类
 
