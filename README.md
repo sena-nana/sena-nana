@@ -11,12 +11,13 @@ Ciallo\~I'm Sena⭐Currently active as an inactive VTB~
 ---
   
 <img align="right" src="https://count.getloli.com/get/@sena-nana?theme=rule34">
+目前在做的项目系列：
 
- 
-- 技能点分配/スギル/Skills
-  - ![](https://img.shields.io/badge/-Python-356d9c?&logo=Python&logoColor=fff&style=flat-square)
-  - ![](https://img.shields.io/badge/-Clip%20Studio%20Paint-2d2d2d?&style=flat-square)
-
+- Lilia：高度Agent辅助的日常/管理工具
+  - LiliaCode：一个Agent核心的代码工程管理
+- Momo：低Agent的日常/管理工具
+- Yume/Mutsuki：实验性项目
+- Nonona：陪伴桌宠类
 
 ---
 
@@ -31,6 +32,3 @@ Ciallo\~I'm Sena⭐Currently active as an inactive VTB~
 
 [灯火橘](https://blog.nekoorange.cn/Link.html) 
 </div>
-
----
-当前大部分开发已经转到私有gitea仓库啦，一些可公开的会设置同步喵
